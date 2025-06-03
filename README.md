@@ -1,1 +1,1 @@
-# EmotionSense
+# Emotion Detection
